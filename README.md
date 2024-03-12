@@ -28,10 +28,11 @@
 - library - version 3.0
 
 ## Conclusions
-- Temperature plays a major role in bike renting, book bike can opt to maximize the operation in the area where the weather is majorly pleasant
-- In the rainy season there is no business
-- Sep month is the month of maximum business
-- Holidays impact the business negatively
+-Temperature plas a major role in bike renting, book bike can opt to maximise the operation in the area where weather is majorly pleasent
+-In rainy season there is no business
+-Snow, windspeed, and spring season negatively impact the business
+-Sep month is the month of maximum business
+
 
 
 
